@@ -1,0 +1,16 @@
+C:\Users\Natalie\Desktop\Studia\Programowanie obiektowe i graficzne\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe.config
+C:\Users\Natalie\Desktop\Studia\Programowanie obiektowe i graficzne\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe
+C:\Users\Natalie\Desktop\Studia\Programowanie obiektowe i graficzne\Tic Tac Toe\bin\Debug\Tic Tac Toe.pdb
+C:\Users\Natalie\Desktop\Studia\Programowanie obiektowe i graficzne\Tic Tac Toe\obj\Debug\Tic Tac Toe.csprojAssemblyReference.cache
+C:\Users\Natalie\Desktop\Studia\Programowanie obiektowe i graficzne\Tic Tac Toe\obj\Debug\View\MainWindow.g.cs
+C:\Users\Natalie\Desktop\Studia\Programowanie obiektowe i graficzne\Tic Tac Toe\obj\Debug\App.g.cs
+C:\Users\Natalie\Desktop\Studia\Programowanie obiektowe i graficzne\Tic Tac Toe\obj\Debug\Tic Tac Toe_MarkupCompile.cache
+C:\Users\Natalie\Desktop\Studia\Programowanie obiektowe i graficzne\Tic Tac Toe\obj\Debug\Tic Tac Toe_MarkupCompile.lref
+C:\Users\Natalie\Desktop\Studia\Programowanie obiektowe i graficzne\Tic Tac Toe\obj\Debug\View\MainWindow.baml
+C:\Users\Natalie\Desktop\Studia\Programowanie obiektowe i graficzne\Tic Tac Toe\obj\Debug\Tic Tac Toe.g.resources
+C:\Users\Natalie\Desktop\Studia\Programowanie obiektowe i graficzne\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\Natalie\Desktop\Studia\Programowanie obiektowe i graficzne\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.GenerateResource.cache
+C:\Users\Natalie\Desktop\Studia\Programowanie obiektowe i graficzne\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\Natalie\Desktop\Studia\Programowanie obiektowe i graficzne\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
+C:\Users\Natalie\Desktop\Studia\Programowanie obiektowe i graficzne\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb
+C:\Users\Natalie\Desktop\Studia\Programowanie obiektowe i graficzne\Tic Tac Toe\obj\Debug\GeneratedInternalTypeHelper.g.cs
